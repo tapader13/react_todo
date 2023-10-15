@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(212, 200, 200);
+    margin-block: 1rem;
+    text-transform: capitalize;
+}
+
+.btn {
+    cursor: pointer;
+}

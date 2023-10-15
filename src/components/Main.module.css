@@ -1,0 +1,10 @@
+.container h1 {
+    text-align: center;
+    padding-block: 1.5rem;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: gray;
+}
